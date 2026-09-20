@@ -1,7 +1,8 @@
 # TOOLS V6
 
-Apa itu TOOLSV6 ?
-"  "  " adalah alat sekumpulan alat hacking Termux, yang menyediakan berbasis campuran Tools Termux lainnya.
+APA ITU TOOLSV6 ?
+
+toolsv6 adalah alat sekumpulan alat hacking Termux, yang menyediakan berbasis campuran Tools Termux lainnya.
 
 ## Screenshot
 
@@ -17,10 +18,10 @@ pkg install git -y
 pkg install make -y
 pkg install make-guile -y
 git clone --depth 32 https://github.com/ToolslV/TOOLSV6
-cd Son
+cd TOOLSV6
 make run
 ```
 
 ## 📬 Kontak Developer
-- 📱 **WhatsApp**: 6285800881163
-- 📱 **Telegram**: t.me/yayayaya0618
+- 📱 **WhatsApp** : 6285800881163
+- 📱 **Telegram** : t.me/yayayaya0618
