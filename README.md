@@ -22,5 +22,7 @@ make run
 ```
 
 ## CONTACTS
-wa/me: 6285800881163
-Telegram: t.me/yayayaya0618
+wa/me:
+6285800881163
+Telegram:
+t.me/yayayaya0618
