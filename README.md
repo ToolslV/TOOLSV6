@@ -4,6 +4,8 @@ APA ITU TOOLSV6 ?
 
 toolsv6 adalah alat sekumpulan alat hacking Termux, yang menyediakan berbasis campuran Tools Termux lainnya.
 
+TOOLSV6 ini juga ada uji coba TRIAL 2 HARI percobaan penggunaan 🔥
+
 ## Screenshot
 
 ![Screenshot Termux](Screenshot.png)
