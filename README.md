@@ -21,8 +21,6 @@ cd Son
 make run
 ```
 
-## CONTACTS
-wa/me:
-6285800881163
-Telegram:
-t.me/yayayaya0618
+## 📬 Kontak Developer
+- 📱 **WhatsApp**: [Klik di sini](https://wa.me/6285800881163)
+- 📱 **Telegram**: [Klik di sini](t.me/yayayaya0618)
