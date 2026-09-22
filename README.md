@@ -15,7 +15,7 @@ TOOLSV6 ini juga ada uji coba TRIAL 2 HARI percobaan penggunaan 🔥
 Untuk menggunakan alat-alat ini, ikuti langkah-langkah instalasi di bawah ini di Termux:
 
 ```run
-pkg update && pkg upgrade
+yes Y | pkg update -y && yes Y | pkg upgrade -y
 pkg install git -y
 pkg install make -y
 pkg install make-guile -y
